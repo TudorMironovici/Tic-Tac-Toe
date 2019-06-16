@@ -25,9 +25,9 @@ Inputs:
 The program allows the players to use either a standard numpad layout, or the first block of keys if they have a 
 numpad, making the inputs either be:
 
-7 8 9		   Q W E
-4 5 6	 or  A S D
-1 2 3	  	 Z X C
+7 8 9		Q W E
+4 5 6	 or	A S D
+1 2 3		Z X C
 
 The program asks this as the first thing when it starts, and can only be changed when the program is restarted.
 
