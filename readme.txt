@@ -1,4 +1,19 @@
 ********************************************************************************************************************
+                                                   WHAT I LEARNED
+********************************************************************************************************************
+
+- How to intuitively let users interact with a command-line program
+- Knowing when to stop users from doing something, even though it doesn't break the code (e.g. having the same name)
+- Documenting a concise readme for users to understand how the program works
+- How Python's Turtle module works with color and speed
+
+
+
+
+
+
+
+********************************************************************************************************************
                                                     Tic-Tac-Toe
 ********************************************************************************************************************
 
@@ -10,9 +25,9 @@ Inputs:
 The program allows the players to use either a standard numpad layout, or the first block of keys if they have a 
 numpad, making the inputs either be:
 
-7 8 9		Q W E
-4 5 6	 or	A S D
-1 2 3		Z X C
+7 8 9		   Q W E
+4 5 6	 or  A S D
+1 2 3	  	 Z X C
 
 The program asks this as the first thing when it starts, and can only be changed when the program is restarted.
 
